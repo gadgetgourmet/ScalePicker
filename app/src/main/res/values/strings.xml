@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scale Picker</string>
+    <string name="scale">34</string>
+    <string name="random_scale">Random Scale</string>
+</resources>
